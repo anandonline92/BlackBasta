@@ -1,1 +1,5 @@
 # BlackBasta
+Black Basta is ransomware as a service (RaaS) known for high velocity, double extortion operations targeting small to medium size businesses in North America and Western Europe.
+Black Basta operators often utilizing unique TTPs to gain entry, spread laterally, exfiltrate data, and drop ransomware. The ransomware is a cross-platform ransomware that is only executed with administrator privileges on both Windows and Linux systems. The ransomware hinders machine processes and ultimately makes desktop files unusable before sending a ransom note to a victim. Their previous attacks suggest that they use stolen credentials (purchased on the Dark Web) to get into organizations ‘systems. Initial access is often acquired via malicious links in a phishing e-mail. Unlike most cyber threat actors, Black Basta uses numerous tools and remote access methods. Common tools utilized by the group include Qakbot (aka QBot), SystemBC, Mimikatz, ColbaltStrike, and Rclone.
+
+This Repository will be containing the latest IOCs related to campaign
